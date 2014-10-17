@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pcn:home|Door43 (pcn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pcn|d43-pcn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pcn/archive/master.zip|d43-pcn.zip]]
+
+**Recent Changes**
+{{changes>ns = pcn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pcn|Ethnologue data]]
+
